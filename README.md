@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandra-staniland
 - 👀 I’m interested in ... Scala/Functional Programming/Spark/AWS/Kafka/Akka/Cats
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... more about mental health 
 - 💞️ I’m looking to collaborate on ... Scala 
 - 📫 How to reach me ... alexandra.staniland@signify-tech.com
 
